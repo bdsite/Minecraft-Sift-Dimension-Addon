@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+CHANGELOG.txt
+2026-09-26 Minecraft LIVE The Sift, Fabric 1.0.2 notes

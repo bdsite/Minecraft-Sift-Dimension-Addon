@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+Mcmeta.txt
+Java 26.2 / 26.3, vanilla 2027

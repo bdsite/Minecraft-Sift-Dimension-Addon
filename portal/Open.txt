@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+Open.txt
+portal open, blub can follow

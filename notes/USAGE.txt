@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+USAGE.txt
+extract zip, drop Fabric jar, or wait for vanilla 2027
